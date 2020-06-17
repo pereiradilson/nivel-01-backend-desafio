@@ -1,4 +1,4 @@
-# GoSatck - Desafio: Conceitos do Node.js
+# GoSatck - Challenge: Node.js concepts
 
 Creating a NodeJS backend to register repositories with the following options:
 
